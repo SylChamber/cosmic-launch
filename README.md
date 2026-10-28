@@ -2,9 +2,9 @@
 
 `cosmic-launch` est un outil terminal qui lance une application, ou l'active sous COSMIC si elle est déjà chargée.
 
-Utilise le binaire [cosmicmsg](https://github.com/varbhat/cosmicmsg), qui doit se trouver dans le `PATH`.
+Utilise le binaire [cosmicmsg](https://github.com/varbhat/cosmicmsg), qui doit se trouver dans le `PATH`. `cosmicmsg` a été compilé pour AMD64 et est inclus dans les _releases_.
 
-> Contribuée par Mistral.
+> Code contribué par Mistral. `varbhat/cosmicmsg` est distribué sur licence MIT.
 
 ## Compilation et installation
 
